@@ -1,7 +1,10 @@
 # Ride
 A taxi app with authentication with google and other features.
+#
+#screenshots Attached for Ref.
+#
 # How to achieve more in the application 
-//
+#
 Authentication: Use OAuth 2.0 for secure user access, encrypt sensitive data with HTTPS, and securely store passwords using hashing. (passport in Nodejs)
 
 Cost Estimation - Time and Space: Employ profiling tools to analyze system complexity, optimize algorithms and data structures, and conduct regular performance testing.
